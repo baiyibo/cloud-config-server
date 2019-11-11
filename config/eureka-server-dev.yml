@@ -24,3 +24,5 @@ management:
     web:
       exposure:
         include: "*"
+
+config-version:1.0.1
