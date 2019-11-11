@@ -25,4 +25,4 @@ management:
       exposure:
         include: "*"
 
-config-version:1.0.1
+config-version: 1.0.1
