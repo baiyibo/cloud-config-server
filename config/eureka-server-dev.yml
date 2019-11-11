@@ -25,4 +25,6 @@ management:
       exposure:
         include: "*"
 
-config_version: 1.0.1
+data:
+  env: config-eureka-dev
+  version: 1.0.1
