@@ -27,4 +27,4 @@ management:
 
 data:
   env: config-eureka-dev
-  version: 1.0.1
+  version: 1.0.2
