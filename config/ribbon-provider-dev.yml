@@ -1,4 +1,7 @@
-
+data:
+  env: config-eureka-dev
+  version: 1.0.2
+  
 server:
   port: 8802
 spring:
