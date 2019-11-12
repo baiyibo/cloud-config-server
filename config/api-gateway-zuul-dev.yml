@@ -2,6 +2,16 @@ data:
   env: config-eureka-dev
   version: 1.0.2
   
+#自动刷新配置用      
+management:
+  endpoint:
+    shutdown:
+      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  
 server:
   port: 8888 #服务端口
 spring:
