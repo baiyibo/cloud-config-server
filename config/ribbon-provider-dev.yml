@@ -1,6 +1,6 @@
 data:
   env: config-eureka-dev
-  version: 1.0.2
+  version: 1.0.4
 
 #自动刷新配置用      
 management:
